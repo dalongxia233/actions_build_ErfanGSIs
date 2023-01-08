@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/V10.3.2.0.ODJCNXM/clover_images_V10.3.2.0.ODJCNXM_20190515.0000.00_8.1_cn_4388d99e5e.tgz
-  ROM_NAME: miui
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 
